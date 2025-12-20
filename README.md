@@ -7,6 +7,15 @@
 * 会話  
 
 抽象化すると「思考」と「探求」が好き。
+### 使える言語
+* 日本語
+### 使いたい言語
+* English
+* TypeScript
+* rust
+* lisp
+* haskell
+
 ## お気に入りのプロジェクト
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
 ![Emacs](https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=gnu-emacs&logoColor=white)
